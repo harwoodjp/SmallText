@@ -4,6 +4,7 @@
 		
 		body {
 			background-color:#595959;
+			-webkit-transition:all 600ms ease-in-out;
 			transition: all 600ms ease-in-out;
 
 		}	
@@ -16,6 +17,7 @@
 			color:orange;
 			float:right;
 			padding-right:.3%;
+			-webkit-transition:all 600ms ease-in-out;
 			transition: all 600ms ease-in-out;
 
 		}
@@ -31,6 +33,7 @@
 			height:3%;
 			padding-top:.1%;
 			z-index:1;
+			-webkit-transition:all 600ms ease-in-out;
 			transition: all 600ms ease-in-out;
 
 		}
@@ -46,6 +49,7 @@
 			resize:none;
 			border:2px solid black;
 			font-size:16px;
+			-webkit-transition:all 600ms ease-in-out;
 			transition: all 600ms ease-in-out;
 		}
 
@@ -75,6 +79,7 @@
 			border:none;
 			font-size:13px;
 			border-radius:4px;
+			-webkit-transition:600ms ease-in-out;
 			transition:600ms ease-in-out;
 		}
 
@@ -86,6 +91,7 @@
   			left: 0;
   			right: 0;
   			background: rgba(0, 0, 0, 0.7); /* Overlay film for the background */
+  			-webkit-transition:600ms ease-in-out;
   			transition: 600ms ease-in-out; /* Transition */
   			visibility: hidden;
   			opacity: 0;
@@ -109,6 +115,7 @@
 			border: 13px solid black;
 			z-index:1;
 			background-color:#898989;
+			-webkit-transition:all 600ms ease-in-out;
 			transition: all 600ms ease-in-out;
 
 	
@@ -132,6 +139,7 @@
   			position: absolute;
   			top: -17px;
   			right: -10px;
+			-webkit-transition:all 200ms ease-in-out;
 			transition:all 200ms ease-in-out;
 			font-size: 15px;
   			font-weight: bold;
@@ -160,6 +168,7 @@
 			left:0px;
 			font-size:12px;
 			font-weight:bold;
+			-webkit-transition:all 600ms ease-in-out;
 			transition: all 600ms ease-in-out;
 
 		}
