@@ -4,7 +4,7 @@ function about() {
 		};
 //about - end
 
-//save - start
+//save - start (Doesn't work on Windows, does fine on ChromeOS)
 function save() {
 
 var txt = document.getElementById("txt").value;
